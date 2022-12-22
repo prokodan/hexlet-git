@@ -1,1 +1,1 @@
-Something is written there
+Hello, Hexlet! How are you?
